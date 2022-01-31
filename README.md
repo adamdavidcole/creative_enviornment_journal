@@ -26,9 +26,15 @@ This solved both our problems by really driving home the message that there is _
 
 We brought a paper prototype to class and it was a real success: the MPs gleedfully rode to Downing street while the commoner complained each turn about it being unfair. 
 
+<img width="688" alt="Paper prototype (1)" src="https://user-images.githubusercontent.com/5685294/151886345-9c77a9d6-d79a-4228-a135-3d1cab859157.png">
+
+
 One value of the game is that many of the textual elements were pulled directly from the news, and we felt this was an effective way to bring a fresh perspective to current events. In fact, we thought it would be worthwhile to rapidly prototype this game as a web experience and hopefully release it into the world soon as a playable game that can be shared across the web.
 
 The working prototype can be found [here](https://friendly-engelbart-a27766.netlify.app/).
+
+<img width="1171" alt="Early visual UI for game start" src="https://user-images.githubusercontent.com/5685294/151886354-bb12be7f-e75c-477a-ac67-d51a8c76b530.png">
+
 
 # Week 2
 Introduction to Unity!
@@ -46,6 +52,8 @@ When I presented this game in class, I was very careful not to reveal the underl
 For those reading this journal, the mechanic is actually surprisingly simple: if there is an even number of stamps you fail, if it's odd you win. 
 
 You can try out the game for yourself [here](https://adamcole.itch.io/are-you-an-artist).
+
+<img width="954" alt="Screen Shot 2022-01-31 at 10 49 04 PM" src="https://user-images.githubusercontent.com/5685294/151886368-e85cfe60-9639-4b78-9793-e3a90af9998e.png">
 
 # Week 3
 This week our task is to create a physical game. When I first read the prompt my outlook was incredibly limited to classic playground games like tag, hopscotch or capture the flag. The lecture on the topic opened my mind to consider games that break the physical and temporal closure that classic playground games take for granted.
